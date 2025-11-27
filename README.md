@@ -4,18 +4,6 @@
 ![viewfinal](https://github.com/user-attachments/assets/37416c39-4cb2-419b-89b6-c03d682a6234)
 - [Demo Project](https://roshaghaderi-web.github.io/first/)
 
-- Developed by pouria farahani
-
-- Created - 2022-11-26
-
-- Technologies Used - Html , css , js , React.js
-
-- Hooks Used : useState 
-
-- Role - Frontend
-
-- How to reach me : with my [instagram](https://www.instagram.com/pouria_farahani_developer) and [linkedin](https://www.linkedin.com/in/pouria-farahani-developer)
-)
 
 - Developed by rosha ghaderi
 
